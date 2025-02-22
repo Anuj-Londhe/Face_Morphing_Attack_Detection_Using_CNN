@@ -2,13 +2,17 @@
 
 This project focuses on detecting face morphing attacks using Convolutional Neural Networks (CNN). Face morphing attacks involve blending two or more facial images to create a composite image that can deceive facial recognition systems. Our CNN model is trained to identify such manipulated images and differentiate them from authentic ones.  
 
-## Features  
+## Features
+
 ✅ **User Authentication**: Users can **sign up and log in** using their details, which are securely stored in an **SQLite database**.  
+
 ✅ **Image Preprocessing**:  
    - The browsed image is **converted to grayscale**.  
    - It is then **transformed into binary format** for further analysis.
+
 ✅ **Morphing Attack Detection**:  
    - The CNN model classifies the image as **morphed or authentic**.
+
 ✅ **Runs on Spyder** within **Anaconda Navigator**  
 
 
