@@ -6,9 +6,9 @@ This project focuses on detecting face morphing attacks using Convolutional Neur
 ✅ **User Authentication**: Users can **sign up and log in** using their details, which are securely stored in an **SQLite database**.  
 ✅ **Image Preprocessing**:  
    - The browsed image is **converted to grayscale**.  
-   - It is then **transformed into binary format** for further analysis.  
+   - It is then **transformed into binary format** for further analysis.
 ✅ **Morphing Attack Detection**:  
-   - The CNN model classifies the image as **morphed or authentic**.  
+   - The CNN model classifies the image as **morphed or authentic**.
 ✅ **Runs on Spyder** within **Anaconda Navigator**  
 
 
